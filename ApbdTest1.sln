@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApbdTest1", "ApbdTest1\ApbdTest1.csproj", "{62ACCFFB-96DA-47E5-BDC8-380665B2D44D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExampleTest1", "..\..\..\Users\vladk\Downloads\apbd-2024-example-test-1-main\apbd-2024-example-test-1-main\ExampleTest1\ExampleTest1\ExampleTest1.csproj", "{CDCAD2AB-7504-4F34-B273-8AFD02D1E7E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62ACCFFB-96DA-47E5-BDC8-380665B2D44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62ACCFFB-96DA-47E5-BDC8-380665B2D44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62ACCFFB-96DA-47E5-BDC8-380665B2D44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62ACCFFB-96DA-47E5-BDC8-380665B2D44D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDCAD2AB-7504-4F34-B273-8AFD02D1E7E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDCAD2AB-7504-4F34-B273-8AFD02D1E7E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDCAD2AB-7504-4F34-B273-8AFD02D1E7E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDCAD2AB-7504-4F34-B273-8AFD02D1E7E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68BDBA92-01B7-44D2-A6D3-FAE1E469EFD0}
+	EndGlobalSection
+EndGlobal
