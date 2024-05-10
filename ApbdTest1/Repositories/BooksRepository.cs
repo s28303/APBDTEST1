@@ -113,6 +113,8 @@ namespace ApbdTest1.Repositories
             command.Connection = connection;
             command.CommandText = insert;
 
+            await connection.OpenAsync();
+
             command.Parameters.AddWithValue("@Title", newBookWithEdition.bookTitle);
 
             var id = await command.ExecuteScalarAsync();
